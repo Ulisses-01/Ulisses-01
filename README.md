@@ -3,7 +3,11 @@
 <!--
 **Ulisses-01/Ulisses-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Desenvolvedor de Software Back-end em Formação | JavaScript | Node.js | Banco de Dados | SQL
+
+trabalhar bem em equipe e tenho muito interesse em colocar em prática tudo o que aprendi até agora. Além disso, estou sempre em busca de aprender mais e evoluir como desenvolvedor de software.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
